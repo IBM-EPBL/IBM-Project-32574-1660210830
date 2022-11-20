@@ -24,7 +24,7 @@ Smart Fashion Recommender Application
 ---
 **Industry Mentor(s) Name :** Krishna Chaitanya
 
-**Faculty Mentor(s) Name :** POOBALAN B
+**Faculty Mentor(s) Name :** POOBALAN A
 
 ---
 
