@@ -84,4 +84,4 @@ If you have any feedback, please reach out to us at pjebamalar2002@gmail.com
 
 
 ![Thank You :-)](https://i0.wp.com/paulaspoint.com/wp-content/uploads/2018/04/thank-you.jpg?fit=275%2C183)
-https://tenor.com/view/thank-you-so-cute-gif-25990555
+https://media.tenor.com/W6R7KFBYwhMAAAAi/thank-you.gif
