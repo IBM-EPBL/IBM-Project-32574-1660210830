@@ -57,7 +57,7 @@ UNIVERSITY  COLLEGE OF ENGINEERING -DINDIGUL
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-32574-1660210830/tree/main/Project%20Design%20Phase%20-II)
 - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-32574-1660210830/tree/main/PROJECT%20PLANNING%20PHASE)
 - [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-32574-1660210830/blob/main/PROJECT%20DEVELOPMENT%20PHASE.zip)
--[DOCUMENTATION](https://github.com/IBM-EPBL/IBM-Project-32574-1660210830/blob/main/smart%20fastion%20recommation%20application%20-project%20documentation.pdf)
+- [DOCUMENTATION](https://github.com/IBM-EPBL/IBM-Project-32574-1660210830/blob/main/smart%20fastion%20recommation%20application%20-project%20documentation.pdf)
 
 
 
